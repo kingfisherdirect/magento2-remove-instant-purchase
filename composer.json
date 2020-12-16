@@ -1,0 +1,9 @@
+{
+  "name": "kingfisherdirect/magento2-remove-instant-purchase",
+  "description": "Module to remove front-end side of InstantPurchase Magento 2 module",
+  "type": "magento2-module",
+  "license": ["MIT"],
+  "autoload": {
+    "files": [ "registration.php" ]
+  }
+}
